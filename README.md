@@ -6,7 +6,7 @@
 Continue to hone my ruby development skills with new projects and continued collaboration. Branch out using online resources to gain experience and knowledge in other languages and frameworks. Attend more meetups to network and learn from the community.
 
 | Actionable Goals  | Priority |
-|---|:---:|
+|:---|:---:|
 | Utilize D3 and and ActionCable to create a live updating bitcoin price tracking application.  | High |
 | Fully complete the Epicodus React course day-by-day.  | High |
 | Continue to attend monthly Ruby Brigade meetup as well as the bi-weekly freecodecamp meetups.  | High |
@@ -27,3 +27,7 @@ Continue to hone my ruby development skills with new projects and continued coll
 | Write an in-depth comparison of Angular and React.  | Low |
 | Use D3 to make a world heat map of tea and tea exports.  | Low |
 | Build an open source API project that tracks smartphone specs since 2007.   | Low |
+
+What I did Today:
+* I created a repo and a README for the 2nd version of the Driver Timer (Nessie).
+* I made a couple updates the first version of the Driver Timer (Frankenstein).
