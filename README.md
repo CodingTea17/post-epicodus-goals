@@ -28,7 +28,7 @@ Continue to hone my ruby development skills with new projects and continued coll
 | Use D3 to make a world heat map of tea and tea exports.  | Low |
 | Build an open source API project that tracks smartphone specs since 2007.   | Low |
 
-### What I did Today:
+### What I Did Today:
 * I created a repo and a README for the 2nd version of the Driver Timer (Nessie).
 * I updated the README of the first version of the Driver Timer (Frankenstein).
 * I created the project folder for the Driver Timer V3 (Dracula) and setup a rails backend api and a react frontend api.
@@ -36,3 +36,4 @@ Continue to hone my ruby development skills with new projects and continued coll
 * Setup a project README and a GitHub repo.
 * Created a SMS model.
 * Constructed an inbound_sms controller to handle incoming messages. Tested it and it works. I sent a message from my phone and the route triggered a pry. Nexmo is currently set to send the message to a GET route because that's how I had it setup for v2 (idk why -\_-) so I will have to go with it for now...
+* Instruct the inbound sms controller to create an SMS entry in the database when it receives a sms.
