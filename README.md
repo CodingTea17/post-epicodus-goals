@@ -1,6 +1,9 @@
 # Post-Epicodus Plan (rev 1.0)
 
-### 12/15/2017
+##### 12/15/2017
+
+### Summary
+Continue to hone my ruby development skills with new projects and continued collaboration. Branch out using online resources to gain experience and knowledge in other languages and frameworks. Attend more meetups to network and learn from the community. 
 
 | Actionable Goals  | Priority |
 |----|:-:|:-:|
@@ -15,10 +18,10 @@
 | Find a React (potentially React/Rails) based open source to contribute to.  | Medium |
 | Learn how to make Ruby gems and publish one.  | Medium |
 | Create a Rails/React cookbook sharing application.  | Medium |
+| Make at least one RoR related post on Linkedin per day.  | Medium |
 | Build out a rental management site with features such as remote property management and online rent payment for payments.  | Medium |
 | Connect with a fellow Epicodus student at least once a week and pair program for the day.  | Medium |
 | Follow up to the one above: Make a cool application that takes people's availability and pairs them for as many days they want per week.  | Low |
-| Make at least one RoR related post on Linkedin per day.  | Medium |
 | Integrate Firebase(or FireStore) into a rails application.  | Low |
 | Reboot the sinatra based foodcart finder application into a Rails project.  | Low |
 | Write an in-depth comparison of Angular and React.  | Low |
