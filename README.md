@@ -3,10 +3,10 @@
 ##### 12/15/2017
 
 ### Summary
-Continue to hone my ruby development skills with new projects and continued collaboration. Branch out using online resources to gain experience and knowledge in other languages and frameworks. Attend more meetups to network and learn from the community. 
+Continue to hone my ruby development skills with new projects and continued collaboration. Branch out using online resources to gain experience and knowledge in other languages and frameworks. Attend more meetups to network and learn from the community.
 
 | Actionable Goals  | Priority |
-|----|:-:|:-:|
+|---|:---:|:---:|
 | Utilize D3 and and ActionCable to create a live updating bitcoin price tracking application.  | High |
 | Fully complete the Epicodus React course day-by-day.  | High |
 | Continue to attend monthly Ruby Brigade meetup as well as the bi-weekly freecodecamp meetups.  | High |
