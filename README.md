@@ -37,3 +37,7 @@ Continue to hone my ruby development skills with new projects and continued coll
 * Created a SMS model.
 * Constructed an inbound_sms controller to handle incoming messages. Tested it and it works. I sent a message from my phone and the route triggered a pry. Nexmo is currently set to send the message to a GET route because that's how I had it setup for v2 (idk why -\_-) so I will have to go with it for now...
 * Instruct the inbound sms controller to create an SMS entry in the database when it receives a sms.
+* Heavy research into 'react-router' which allows the application to stay contained on a single physical route while still switching through components.  
+  * [Usage with React Router](https://redux.js.org/docs/advanced/UsageWithReactRouter.html)
+  * [Routing React Apps: The Complete Guide](https://scotch.io/tutorials/routing-react-apps-the-complete-guide)
+  * [A Simple React Router Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf)
